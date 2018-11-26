@@ -1,0 +1,32 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Sedgwick+Ave');
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Indie+Flower|Sedgwick+Ave');
+
+h1 {
+  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Sedgwick Ave', cursive;
+  color: blue;
+  text-align: center;
+  border-bottom: 2px solid orange;
+  margin-bottom: 5px;
+}
+p {
+  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Sedgwick Ave', cursive;
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+ } 
+  
+h2 {
+   font-family: 'Chakra Petch', sans-serif;
+   font-family: 'Sedgwick Ave', cursive;
+   color: red;
+   margin-left: 100px;
+}
+
+body {
+    background-color: #add8e6;
+}
+ul {font-family: 'Chakra Petch', sans-serif;
+   font-family: 'Sedgwick Ave', cursive;
+   font-family: 'Indie Flower', cursive;
+}
