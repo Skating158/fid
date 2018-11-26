@@ -32,3 +32,8 @@ ul {font-family: 'Chakra Petch', sans-serif;
    font-family: 'Indie Flower', cursive;
    font-family: 'Pacifico', cursive;
    font-size: 12pt;
+body {
+  background-color: #FFA500;
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
