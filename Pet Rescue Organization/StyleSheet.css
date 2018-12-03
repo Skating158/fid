@@ -1,0 +1,46 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Noto+Serif|Righteous');
+
+h1 {
+   font-family: 'Merriweather', serif;
+   color: orange;
+   text-align: center;
+   border-bottom: 4px solid grey;
+   margin-bottom: 5px;
+   font-size: 30px;
+}
+
+
+h2 {
+   font-family: 'Noto Serif', serif;
+   color: #191970;
+   margin-center: 100px;
+   text-align: center;
+   font-size: 25px;
+}
+
+h3 {
+   font-family: 'Noto Serif', serif;
+   color: #191970;
+   margin-center: 100px;
+   text-align: center;
+   font-size: 20px;
+}
+
+p {
+  font-family: 'Righteous', cursive;
+  Text-align: left;
+  font-size: 18px;
+  text-align: center;
+}
+   
+
+body {
+   Background-color: #20B2AA;
+}
+
+ul {
+   text-align: center;
+   font-family: 'Righteous', cursive;
+}
